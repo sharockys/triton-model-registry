@@ -1,0 +1,6 @@
+__pycache__
+.DS_Store
+.conda
+
+# the folder of model files
+1
