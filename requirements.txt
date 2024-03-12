@@ -1,0 +1,4 @@
+transformers==4.38.2
+optimum[ONNX]==1.17.1
+torch==2.2.1
+typer==0.9.0
